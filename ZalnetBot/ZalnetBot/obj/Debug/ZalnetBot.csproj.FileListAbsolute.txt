@@ -1,0 +1,160 @@
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Bot Application.dll.config
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Bot Application.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Bot Application.pdb
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Autofac.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Chronic.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Builder.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Connector.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Newtonsoft.Json.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\System.Net.Http.Formatting.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\System.Web.Http.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\System.Web.Http.WebHost.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Autofac.xml
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Builder.xml
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Connector.xml
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\Newtonsoft.Json.xml
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\System.Net.Http.Formatting.xml
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\System.Web.Http.xml
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\System.Web.Http.WebHost.xml
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\obj\Debug\ZalnetBot.csprojResolveAssemblyReference.cache
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\obj\Debug\Bot Application.dll
+E:\Inne\_ProjektyVisualStudio\ZalnetBot\ZalnetBot\obj\Debug\Bot Application.pdb
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Bot Application.dll.config
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Bot Application.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Bot Application.pdb
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Autofac.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Chronic.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Microsoft.Bot.Builder.Autofac.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Microsoft.Bot.Builder.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Microsoft.Bot.Connector.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Microsoft.Rest.ClientRuntime.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Microsoft.WindowsAzure.Configuration.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Newtonsoft.Json.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\System.IdentityModel.Tokens.Jwt.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\System.Net.Http.Formatting.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\System.Web.Http.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\System.Web.Http.WebHost.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Autofac.xml
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Microsoft.Bot.Builder.xml
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Microsoft.Bot.Builder.Autofac.xml
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Microsoft.Bot.Connector.xml
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Microsoft.WindowsAzure.Configuration.xml
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\Newtonsoft.Json.xml
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\System.IdentityModel.Tokens.Jwt.xml
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\System.Net.Http.Formatting.xml
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\System.Web.Http.xml
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\System.Web.Http.WebHost.xml
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\en\Microsoft.Bot.Builder.resources.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\es\Microsoft.Bot.Builder.resources.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\obj\Debug\ZalnetBot.csprojResolveAssemblyReference.cache
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\obj\Debug\Bot Application.dll
+P:\Konferencje\AzureWroclaw2019\ZalnetBot wersja C działa\ZalnetBot\obj\Debug\Bot Application.pdb
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Bot Application.dll.config
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Bot Application.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Bot Application.pdb
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Autofac.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Chronic.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Newtonsoft.Json.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\System.Web.Http.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Autofac.xml
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\Newtonsoft.Json.xml
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\System.Web.Http.xml
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\obj\Debug\ZalnetBot.csprojResolveAssemblyReference.cache
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\obj\Debug\Bot Application.dll
+C:\Users\Beata\Desktop\zalnetbotdemo\ZalnetBot\ZalnetBot\obj\Debug\Bot Application.pdb
+E:\ZalnetBot\ZalnetBot\bin\Bot Application.dll.config
+E:\ZalnetBot\ZalnetBot\bin\Bot Application.dll
+E:\ZalnetBot\ZalnetBot\bin\Bot Application.pdb
+E:\ZalnetBot\ZalnetBot\bin\Autofac.dll
+E:\ZalnetBot\ZalnetBot\bin\Chronic.dll
+E:\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Builder.dll
+E:\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Connector.dll
+E:\ZalnetBot\ZalnetBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\ZalnetBot\ZalnetBot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\ZalnetBot\ZalnetBot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\ZalnetBot\ZalnetBot\bin\Newtonsoft.Json.dll
+E:\ZalnetBot\ZalnetBot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\ZalnetBot\ZalnetBot\bin\System.Net.Http.Formatting.dll
+E:\ZalnetBot\ZalnetBot\bin\System.Web.Http.dll
+E:\ZalnetBot\ZalnetBot\bin\System.Web.Http.WebHost.dll
+E:\ZalnetBot\ZalnetBot\bin\Autofac.xml
+E:\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Builder.xml
+E:\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\ZalnetBot\ZalnetBot\bin\Microsoft.Bot.Connector.xml
+E:\ZalnetBot\ZalnetBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\ZalnetBot\ZalnetBot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\ZalnetBot\ZalnetBot\bin\Newtonsoft.Json.xml
+E:\ZalnetBot\ZalnetBot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\ZalnetBot\ZalnetBot\bin\System.Net.Http.Formatting.xml
+E:\ZalnetBot\ZalnetBot\bin\System.Web.Http.xml
+E:\ZalnetBot\ZalnetBot\bin\System.Web.Http.WebHost.xml
+E:\ZalnetBot\ZalnetBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\ZalnetBot\ZalnetBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\ZalnetBot\ZalnetBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\ZalnetBot\ZalnetBot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\ZalnetBot\ZalnetBot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\ZalnetBot\ZalnetBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\ZalnetBot\ZalnetBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\ZalnetBot\ZalnetBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\ZalnetBot\ZalnetBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\ZalnetBot\ZalnetBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\ZalnetBot\ZalnetBot\obj\Debug\ZalnetBot.csprojResolveAssemblyReference.cache
+E:\ZalnetBot\ZalnetBot\obj\Debug\Bot Application.dll
+E:\ZalnetBot\ZalnetBot\obj\Debug\Bot Application.pdb
